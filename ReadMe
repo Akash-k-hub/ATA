@@ -1,0 +1,15 @@
+To add student - 
+	url - http://localhost:9090/student-api/students
+	payload - 
+	{
+    "studentName" :"Lol",
+    "studebtScore" : "85",
+    "homeAddress": {
+        "city" : "amalner",
+        "pincode" :" 425401"
+    }
+}
+	
+	
+	
+	
